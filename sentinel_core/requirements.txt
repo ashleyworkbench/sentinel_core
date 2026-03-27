@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+joblib
+scikit-learn
+xgboost
+pandas
+numpy
+plotly
+ijson
+psutil

@@ -1,0 +1,16 @@
+# NVD data — too large for GitHub (app falls back to live NVD API automatically)
+sentinel_core/nvd_data/
+
+# Compiled Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Streamlit cache
+.streamlit/
